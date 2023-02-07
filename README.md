@@ -1,7 +1,7 @@
 ## Olá, eu sou Pedro da Conceição. Atualmente atuo como desenvolvedor Django Jr.
 
 - 🔭 Hoje estou trabalhando com o framework django
-- 🌱 Atualmente estudando java
+- 🌱 Atualmente estudando Django
 
 ##
 
