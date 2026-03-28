@@ -3,7 +3,7 @@
 Desenvolvedor Full Stack focado em soluções escaláveis e integração de sistemas complexos. Atualmente, trabalho desenvolvendo softwares de controle de acesso e ponto, lidando com grandes volumes de dados e comunicação em tempo real com hardware.
 
 ### 🛠 Tecnologias & Ferramentas
-- **Backend:** Python (Flask, Django), Node.js (NestJS, Express).
+- **Backend:** Python (Flask, Django), Node.js (NestJS, Express), Java (Spring Boot).
 - **Frontend:** Next.js, Angular, React.
 - **Data & Devops:** MySQL, Redis, Prisma ORM, Docker, AWS S3, Deploy em VPS.
 - **Especialidades:** Filas (BullMQ), WebSockets, Sockets, Protocolo Push e Integração com Equipamentos.
@@ -21,13 +21,15 @@ Desenvolvedor Full Stack focado em soluções escaláveis e integração de sist
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+   <img align="center" alt="Pedro-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+   <img align="center" alt="Pedro-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+   <img align="center" alt="Pedro-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Pedro-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Pedro-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img align="center" alt="Pedro-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Pedro-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Pedro-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="center" alt="Pedro-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   
 </div>
   
   ##
