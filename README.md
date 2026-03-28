@@ -1,8 +1,17 @@
-## Olá, eu sou Pedro da Conceição. Atualmente atuo como desenvolvedor Django Jr.
+# Olá, eu sou o Pedro da Conceição 👋
 
-- 🔭 Hoje estou trabalhando com o framework django
-- 🌱 Atualmente estudando Django
+Desenvolvedor Full Stack focado em soluções escaláveis e integração de sistemas complexos. Atualmente, trabalho desenvolvendo softwares de controle de acesso e ponto, lidando com grandes volumes de dados e comunicação em tempo real com hardware.
 
+### 🛠 Tecnologias & Ferramentas
+- **Backend:** Python (Flask, Django), Node.js (NestJS, Express).
+- **Frontend:** Next.js, Angular, React.
+- **Data & Devops:** MySQL, Redis, Prisma ORM, Docker, AWS S3, Deploy em VPS.
+- **Especialidades:** Filas (BullMQ), WebSockets, Sockets, Protocolo Push e Integração com Equipamentos.
+
+### 📈 Experiência de Impacto
+- Arquitetura de sistemas com milhares de usuários a nível nacional.
+- Desenvolvimento de fluxos assíncronos e processamento de filas com **Redis/BullMQ**.
+- Integração de protocolos de hardware para controle de presença em tempo real.
 ##
 
 <div align="center">
